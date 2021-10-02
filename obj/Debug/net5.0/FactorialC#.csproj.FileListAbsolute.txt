@@ -1,0 +1,16 @@
+C:\Users\DrDea\source\VSCode-Projects\FactorialC#\bin\Debug\net5.0\FactorialC#.exe
+C:\Users\DrDea\source\VSCode-Projects\FactorialC#\bin\Debug\net5.0\FactorialC#.deps.json
+C:\Users\DrDea\source\VSCode-Projects\FactorialC#\bin\Debug\net5.0\FactorialC#.runtimeconfig.json
+C:\Users\DrDea\source\VSCode-Projects\FactorialC#\bin\Debug\net5.0\FactorialC#.runtimeconfig.dev.json
+C:\Users\DrDea\source\VSCode-Projects\FactorialC#\bin\Debug\net5.0\FactorialC#.dll
+C:\Users\DrDea\source\VSCode-Projects\FactorialC#\bin\Debug\net5.0\ref\FactorialC#.dll
+C:\Users\DrDea\source\VSCode-Projects\FactorialC#\bin\Debug\net5.0\FactorialC#.pdb
+C:\Users\DrDea\source\VSCode-Projects\FactorialC#\obj\Debug\net5.0\FactorialC#.csproj.AssemblyReference.cache
+C:\Users\DrDea\source\VSCode-Projects\FactorialC#\obj\Debug\net5.0\FactorialC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DrDea\source\VSCode-Projects\FactorialC#\obj\Debug\net5.0\FactorialC#.AssemblyInfoInputs.cache
+C:\Users\DrDea\source\VSCode-Projects\FactorialC#\obj\Debug\net5.0\FactorialC#.AssemblyInfo.cs
+C:\Users\DrDea\source\VSCode-Projects\FactorialC#\obj\Debug\net5.0\FactorialC#.csproj.CoreCompileInputs.cache
+C:\Users\DrDea\source\VSCode-Projects\FactorialC#\obj\Debug\net5.0\FactorialC#.dll
+C:\Users\DrDea\source\VSCode-Projects\FactorialC#\obj\Debug\net5.0\ref\FactorialC#.dll
+C:\Users\DrDea\source\VSCode-Projects\FactorialC#\obj\Debug\net5.0\FactorialC#.pdb
+C:\Users\DrDea\source\VSCode-Projects\FactorialC#\obj\Debug\net5.0\FactorialC#.genruntimeconfig.cache
