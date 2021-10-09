@@ -12,7 +12,7 @@ namespace FactorialC_
             int num = Convert.ToInt32(Console.ReadLine());
             long sum = num, num2=sum-1;
             if (num<=18 && num>=1){
-                for (int i = 1; i < num-1; i++)
+                for (int i = 1; i < num; i++)
                 {
                     sum=sum*num2;
                     num2--;
@@ -20,13 +20,13 @@ namespace FactorialC_
                 Console.Write(num + "!" + "= " + sum);
                 
             }
-            else
-            {
-                Console.Write("Please enter a number between 1 and 18 (1 and 18 included) : ");
-                goto start;
-            }
+        else
+      {
+         Console.Write("Please enter a number between 1 and 18 (1 and 18 included) : ");
+         goto start;
+      }
         Console.ReadKey();  
-        }
-        
     }
+        
+  }
 }
