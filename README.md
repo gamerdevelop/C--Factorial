@@ -1,9 +1,9 @@
 --------------------------------------TR--------------------------------------
 
-1-18 arasında girilen sayının faktöriyelini hesaplayan VS Code C# projesi.
-Kodları görmek için program.cs dosyasına bakabilirsiniz.
-Projeyi kendi bilgisayarınızda çalıştırmak için öncelikle projeyi klonlayın ve ardından VS Code editöründe açın.
-Projenin çalışabilmesi için VS Code editörünüzde "C#" eklentisi yüklü olmalıdır!
+*1-18 arasında girilen sayının faktöriyelini hesaplayan VS Code C# projesi.
+*Kodları görmek için program.cs dosyasına bakabilirsiniz.
+*Projeyi kendi bilgisayarınızda çalıştırmak için öncelikle projeyi klonlayın ve ardından VS Code editöründe açın.
+*Projenin çalışabilmesi için VS Code editörünüzde "C#" eklentisi yüklü olmalıdır!
 
 --------------------------------------ENG--------------------------------------
 
